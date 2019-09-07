@@ -1,0 +1,23 @@
+{
+  "name": "shawzin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framefighter/shawzin-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framefighter/shawzin-converter/issues"
+  },
+  "homepage": "https://github.com/framefighter/shawzin-converter#readme",
+  "dependencies": {
+    "@types/inquirer": "^6.5.0",
+    "inquirer": "^7.0.0"
+  }
+}
